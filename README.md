@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditisinha217" alt="aditisinha217" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aditisi58587154" target="blank"><img src="https://img.shields.io/twitter/follow/aditisi58587154?logo=twitter&style=for-the-badge" alt="aditisi58587154" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
